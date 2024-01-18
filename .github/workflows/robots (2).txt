@@ -1,0 +1,18 @@
+#Afzaltipu,#Narsingdi_judge_court, #Narsingdi_lawyer,#family_law,3a5a34a86b, User-agent: *
+Disallow: /archives
+Disallow: /search
+Sitemap: gv-google-site-44596830.group30.sites.hubspot.net199.60.103.31199.60.103.131verification=_huNE9-hQymW0KxbdYJ--pzQ38z7goAPvEfl4y5OVZ8wlrjf6t26u33ox.dv.googlehosted.comrkyxdonkdmns8bc828856ee7476bb8cd4338fd1bc4https://afzaltipu.blogspot.com/sitemap.xml
+
+# Allow indexing of all other pages
+Allow: /
+
+# Allow Googlebot to crawl internal links
+Allow: /internal-link*
+
+# Allow essential Blogspot pages
+Allow: /feeds
+Allow: /p
+Allow: /404.html
+
+# Block specific pages if needed (e.g., draft posts)
+Disallow: /draft-post*
